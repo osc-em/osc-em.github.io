@@ -36,3 +36,9 @@ mkdocs build
 ## Deployment
 
 The site is automatically deployed to GitHub Pages when changes are pushed to the `main` branch via GitHub Actions.
+
+Notes:
+This repository is a user/organization site (`osc-em.github.io`).
+For these repos, GitHub would otherwise serve the README from the default branch if no build step is used.
+Our workflow uses the official GitHub Pages actions to build MkDocs and publish the generated `site/` as the website.
+Make sure that repository Settings > Pages > "Build and deployment" is set to "GitHub Actions".
