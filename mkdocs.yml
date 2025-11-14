@@ -6,7 +6,7 @@ repo_name: GitHub
 
 nav:
   - Home: index.md
-  - Schemas Documentation: OSCEM_Schemas/
+  - Schemas Documentation: schemas.md
 
 theme:
   logo: assets/img/oscem_icon.svg
