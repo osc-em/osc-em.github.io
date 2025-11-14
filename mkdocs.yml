@@ -5,10 +5,12 @@ repo_url: https://github.com/osc-em
 repo_name: GitHub
 
 theme:
+  logo: assets/img/oscem_icon.svg
+  favicon: assets/img/oscem_icon.svg
   name: material
   palette:
-    primary: indigo
-    accent: indigo
+    primary: grey
+    accent: cyan
   features:
     - navigation.sections
     - navigation.expand
