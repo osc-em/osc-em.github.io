@@ -4,6 +4,10 @@ site_author: OSC-EM
 repo_url: https://github.com/osc-em
 repo_name: GitHub
 
+nav:
+  - Home: index.md
+  - Schemas Documentation: OSCEM_Schemas/
+
 theme:
   logo: assets/img/oscem_icon.svg
   favicon: assets/img/oscem_icon.svg
