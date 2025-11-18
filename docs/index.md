@@ -15,7 +15,7 @@ descriptions, OSC-EM can capture this metadata in a standard format that can the
 imported by processing software or published with the dataset to enable reuse and
 reproducible science.
 
-Central to this effort is the [OSC-EM Schema](https://github.com/osc-em/OSCEM_Schemas),
+Central to this effort is the [OSC-EM Schema](https://github.com/osc-em/oscem-schemas),
 which defines a common format for describing microscope metadata. The schema is modular
 to allow for the inclusion a diverse experimental techniques and data types. OSC-EM can
 be used to store metadata for the full data lifecycle, from data acquisition through
